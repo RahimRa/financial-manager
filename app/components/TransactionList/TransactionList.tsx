@@ -84,7 +84,7 @@ export const TransactionList: React.FC = () => {
   return (
     <Wrapper>
       <FixedHeader>
-        <h1>Transactions</h1>
+        Transactions
         <FilterContainer>
           <FilterSelect value={selectedType} onChange={handleTypeChange}>
             <option value=''>All Types</option>
