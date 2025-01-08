@@ -14,7 +14,7 @@ const initialState: State = {
       date: '05.01.2024',
       type: 'expense',
     },
-    // Остальные элементы...
+  
   ],
   monthlyStats: [
     {
@@ -23,7 +23,7 @@ const initialState: State = {
       expense: 7000,
       id: 0,
     },
-    // Остальные элементы...
+   
   ],
   totalIncome: 253725,
   totalExpense: 289203,
